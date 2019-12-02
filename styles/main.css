@@ -1,0 +1,8 @@
+@font-face {
+    font-family: RubikOne;
+    src: url(resources/RubikOne-Regular.ttf);
+}
+
+body {
+    font-family: RubikOne;
+}
